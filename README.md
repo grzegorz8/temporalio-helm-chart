@@ -1,2 +1,4 @@
 # temporalio-helm-chart
-Clone of temporal.io Helm Chart
+
+Copy of https://github.com/temporalio/helm-charts/ with chart dependencies removed.
+
